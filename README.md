@@ -35,12 +35,12 @@ Table of Contents
 
 3.   References	39
 
-#SCORE = 85%
-#Feedback Received :
-#Strong Sides
+# SCORE = 85%
+# Feedback Received :
+# Strong Sides
 HJM recalibraiton work and comparison of two regimes noted. Are you sure EE at median and 97.5th percentile. // Yes it is logical to seek relationship between common and pref but be careful of event risk -- somehting in term sheets might make one class of shares revalued/trigger chagne of preferences for market participants. Two-way EG procedure noted, spread seems interesting for trading, OU noted -- exploration that the same strategy worked in certain years but not others -- is very good.  As further exploration: you can check relationships with other banking stocks, multivariate cointegration and be more robust on theory, eg how you check coint coefficients.
 
-#Weak Sides	
+# Weak Sides	
 Report is sparse, ie, could be more concentrated with smaller images and more analytics presented in shorter space. Needs more numerical techniques implemented by yourself -- this is core purpose of the FP.			
 
 
