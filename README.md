@@ -43,7 +43,7 @@ HJM recalibraiton work and comparison of two regimes noted. Are you sure EE at m
 # Weak Sides	
 Report is sparse, ie, could be more concentrated with smaller images and more analytics presented in shorter space. Needs more numerical techniques implemented by yourself -- this is core purpose of the FP.			
 
-
+### Based on feedback i will continue to improve the coding and Analysis to create a more robust research
 
 
 
